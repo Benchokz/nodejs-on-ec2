@@ -1,6 +1,6 @@
 # Node Hello World
 
-Simple node.js app that servers "A Monk in Cloud"
+Simple node.js app that servers "We live in a twilight world"
 
 Great for testing simple deployments on Cloud
 
