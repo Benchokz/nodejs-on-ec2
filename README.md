@@ -1,6 +1,6 @@
 # Node Hello World
 
-Simple node.js app that serves "Ebuka lives in a twilight world!"
+Simple node.js app that serves "We live in a twilight world!"
 
 Great for testing simple deployments on Cloud
 
